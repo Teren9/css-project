@@ -1,0 +1,39 @@
+/* Coolors Exported Palette - coolors.co/ffffff-00171f-003459-007ea7-00a8e8 */
+body {
+  background-color: #ffffff;
+  color: #00171f; }
+
+.header {
+  border-bottom: solid 1px #007ea7;
+  position: fixed;
+  width: 80%;
+  margin: auto;
+  max-width: 1000px; }
+  .header .logo {
+    text-decoration: none;
+    float: left;
+    color: #003459;
+    margin: 20px;
+    padding: 5px;
+    border: solid 1px #007ea7;
+    border-radius: 2px; }
+  .header .nav {
+    float: right;
+    margin: 26px; }
+    .header .nav a {
+      text-decoration: none;
+      color: #003459; }
+    .header .nav a:hover {
+      color: #007ea7; }
+
+.content {
+  padding-top: 50px; }
+  .content h1 {
+    color: #003459; }
+  .content a {
+    color: #00a8e8;
+    text-decoration: none; }
+  .content a:hover {
+    color: #007ea7; }
+
+/*# sourceMappingURL=style.css.map */
